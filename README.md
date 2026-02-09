@@ -14,8 +14,7 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Two players take
 
 Building a game like Tic Tac Toe is one of the classic token projects everyone tackles at the start of their software engineering journey.
 ## How to Play
-
-Open `index.html` in a browser, click cells to place your marks, and try to get three in a row. Click "Restart Game" to play again.
+Download the repository,open `index.html` file in a browser, click cells to place your marks, and try to get three in a row. Click "Restart Game" to play again.
 
 ## Limitations
 
